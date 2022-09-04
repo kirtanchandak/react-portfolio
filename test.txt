@@ -1,0 +1,74 @@
+<div className="grid sm:grid-cols-2 md:grid-cols-3 gap-20">
+          <a href="https://kirtan-crypto-app.netlify.app/" target="_blank">
+            <div
+              style={{ backgroundImage: `url(${CRYPTO})` }}
+              className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div  hover:scale-110 duration-500"
+            >
+              <div>
+                <h1 className="text-2xl font-bold flex justify-center items-center mt-[300px] text-gray-400">
+                  Crypto Tracking app{" "}
+                </h1>
+              </div>
+            </div>
+          </a>
+          <a href="https://kirtan-crypto-app.netlify.app/" target="_blank">
+            <div
+              style={{ backgroundImage: `url(${CRYPTO})` }}
+              className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div  hover:scale-110 duration-500"
+            >
+              <div>
+                <h1 className="text-2xl font-bold flex justify-center items-center mt-[300px] text-gray-400">
+                  Crypto Tracking app{" "}
+                </h1>
+              </div>
+            </div>
+          </a>
+          <a href="https://kirtan-crypto-app.netlify.app/" target="_blank">
+            <div
+              style={{ backgroundImage: `url(${CRYPTO})` }}
+              className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div  hover:scale-110 duration-500"
+            >
+              <div>
+                <h1 className="text-2xl font-bold flex justify-center items-center mt-[300px] text-gray-400">
+                  Crypto Tracking app{" "}
+                </h1>
+              </div>
+            </div>
+          </a>
+          <a href="https://kirtan-crypto-app.netlify.app/" target="_blank">
+            <div
+              style={{ backgroundImage: `url(${CRYPTO})` }}
+              className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div  hover:scale-110 duration-500"
+            >
+              <div>
+                <h1 className="text-2xl font-bold flex justify-center items-center mt-[300px] text-gray-400">
+                  Crypto Tracking app{" "}
+                </h1>
+              </div>
+            </div>
+          </a>
+          <a href="https://kirtan-crypto-app.netlify.app/" target="_blank">
+            <div
+              style={{ backgroundImage: `url(${CRYPTO})` }}
+              className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div  hover:scale-110 duration-500"
+            >
+              <div>
+                <h1 className="text-2xl font-bold flex justify-center items-center mt-[300px] text-gray-400">
+                  Crypto Tracking app{" "}
+                </h1>
+              </div>
+            </div>
+          </a>
+          <a href="https://kirtan-crypto-app.netlify.app/" target="_blank">
+            <div
+              style={{ backgroundImage: `url(${CRYPTO})` }}
+              className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div  hover:scale-110 duration-500"
+            >
+              <div>
+                <h1 className="text-2xl font-bold flex justify-center items-center mt-[300px] text-gray-400">
+                  Crypto Tracking app{" "}
+                </h1>
+              </div>
+            </div>
+          </a>
+        </div>
